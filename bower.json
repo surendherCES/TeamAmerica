@@ -1,0 +1,8 @@
+{
+  "name": "KinnserMobile",
+  "private": true,
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.13",
+    "ngDialog": "likeastore/ngDialog#0.3.0"
+  }
+}
